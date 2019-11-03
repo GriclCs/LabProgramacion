@@ -102,7 +102,7 @@ h1 {
 .templatemo_headertitle {
     float: left;
     font-size: 22px;
-    color: #ffffff;
+    color: black;
     font-weight: 600;
     line-height: 25px;
 }
@@ -494,7 +494,7 @@ h1 {
     .templatemo_headertitle {
         float: left;
         font-size: 22px;
-        color: #ffffff;
+        color: black;
         font-weight: 600;
         line-height: 25px;
     }
@@ -529,7 +529,7 @@ h1 {
     .templatemo_headertitle {
         float: left;
         font-size: 26px;
-        color: #ffffff;
+        color: black;
         font-weight: 600;
         line-height: 30px;
     }
@@ -631,7 +631,7 @@ h1 {
         text-align: right;
         font-size: 35px;
         margin-top: 10%;
-        color: #ffffff;
+        color: black;
         font-weight: 600;
         line-height: 80px;
     }
@@ -725,7 +725,7 @@ h1 {
         text-align: right;
         font-size: 35px;
         margin-top: 10%;
-        color: #ffffff;
+        color: black;
         font-weight: 600;
         line-height: 80px;
     }
@@ -820,7 +820,7 @@ h1 {
         text-align: right;
         font-size: 55px;
         margin-top: 10%;
-        color: #ffffff;
+        color: black;
         font-weight: 600;
         line-height: 80px;
     }
