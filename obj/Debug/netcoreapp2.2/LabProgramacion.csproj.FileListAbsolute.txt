@@ -21,3 +21,7 @@ C:\Users\Grisell\Documents\GitHub\LabProgramacion\obj\Debug\netcoreapp2.2\LabPro
 C:\Users\Grisell\Documents\GitHub\LabProgramacion\obj\Debug\netcoreapp2.2\LabProgramacion.dll
 C:\Users\Grisell\Documents\GitHub\LabProgramacion\obj\Debug\netcoreapp2.2\LabProgramacion.pdb
 C:\Users\Grisell\Documents\GitHub\LabProgramacion\obj\Debug\netcoreapp2.2\LabProgramacion.csproj.CopyComplete
+C:\Users\Grisell\Documents\GitHub\LabProgramacion\obj\Debug\netcoreapp2.2\Razor\Views\Home\Confirmacion.g.cshtml.cs
+C:\Users\Grisell\Documents\GitHub\LabProgramacion\obj\Debug\netcoreapp2.2\Razor\Views\Shared\VeterinariaH.g.cshtml.cs
+C:\Users\Grisell\Documents\GitHub\LabProgramacion\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Grisell\Documents\GitHub\LabProgramacion\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
