@@ -1,3 +1,5 @@
+@model Cliente
+
 <!DOCTYPE html>
 <head>
 	
@@ -264,11 +266,12 @@
                     <div class="templatemo_sub_contacttitle">Puedes usar este formulario para enviarnos alguna inquietud que tengas o para hacernos llegar tus sugerencias.</div>
                 </div>
                 <div class="col-md-4 templatemo_contactform">
-                    <form action="#" method="post">
-                      	<input type="text" name="name" id="name" class="name" placeholder="Nombre">
-                      	<input type="text" name="email" id="email" class="email" placeholder="Email">
-                        <input type="text" name="subject" id="subject" class="subject" placeholder="Asunto">
-                        <textarea name="message" class="message" placeholder="Mensaje... " id="message"></textarea>
+                     <div asp-validation-summary="All"></div>
+                    <form asp-action="Formulario">
+                      	<input type="text" name="name" id="Name" asp-for="Nombre" class="name" placeholder="Nombre">
+                      	<input type="text" name="email" id="Email" asp-for="Email" class="email" placeholder="Email">
+                        <input type="text" name="subject" id="Asunto" asp-for="Asunto" class="subject" placeholder="Asunto">
+                        <textarea name="message" class="message" placeholder="Mensaje... " id="Mensaje" asp-for="Mensaje"></textarea>
                         <div class="clear"></div>
                         <button type="button" class="btn btn-primary">Enviar</button>
                   	</form>

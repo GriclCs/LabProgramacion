@@ -11,13 +11,13 @@ namespace LabProgramacion.Controllers
             return View();
         }
 
-        public IActionResult Formulario(){
+       /*  public IActionResult Formulario(){
             return View();
 
-        }
+        } */
 
         [HttpPost]
-      public IActionResult Formulario (Cliente e){
+      public IActionResult VeterinariaH (Cliente e){
             if (ModelState.IsValid){
 //TO-DO : Guardar en base de datos
 return RedirectToAction ("Confirmación");
