@@ -17,7 +17,7 @@ namespace LabProgramacion.Controllers
         } */
 
         [HttpPost]
-      public IActionResult VeterinariaH (Cliente e){
+      public IActionResult Formulario (Cliente e){
             if (ModelState.IsValid){
 //TO-DO : Guardar en base de datos
 return RedirectToAction ("Confirmación");
